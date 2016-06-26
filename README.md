@@ -15,4 +15,4 @@ Game developed on C++
 
 ### Developers
 
-* (Pagelkopf5)[www.github.com/Pagelkopf5]
+* [Pagelkopf5](www.github.com/Pagelkopf5)
