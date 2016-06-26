@@ -1,4 +1,4 @@
-## Alien-Hunter
+## Alien-Hunter - houve uma mudança no estilo de jogo, em breve atualização de nome e caracteristicas
 Game developed on C++
 
 ### 1 stage
